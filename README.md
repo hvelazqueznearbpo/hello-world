@@ -5,5 +5,6 @@ cambio en branch
 Ya hice un cambio.
 Conflicto resuelto
 
-Cambio en master para generar conflicto
+
+RESUELTO
 
